@@ -72,7 +72,10 @@
       </ul>
     </td>
     <td width="30%" align="center" valign="middle">
-      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/University_of_Sindh_logo.png/300px-University_of_Sindh_logo.png" width="150" alt="University of Sindh" />
+      
+      <img width="447" height="447" alt="uni logo" src="https://github.com/user-attachments/assets/5ea52ac5-8d46-4b2c-8318-78591630f8d6" />
+
+      
     </td>
   </tr>
 </table>
@@ -142,21 +145,21 @@
     <td width="50%" align="center" valign="top">
       <b>Portfolio Website</b><br>
       <i>My 3D Interactive Portfolio</i><br><br>
-      <a href="https://portfolio-website-alpha-five-44.vercel.app/#contact">
-        <!-- Replace the placeholder image below with your 3D Avatar Image -->
-        <img src="<img width="1600" height="764" alt="WhatsApp Image 2026-06-22 at 12 35 36 AM" src="https://github.com/user-attachments/assets/dbe77d5e-1240-401f-b9ec-15f2063d71e3" />
-" width="100%" alt="Portfolio Website" />
-      </a><br><br>
+      
+      <img width="1600" height="764" alt="3D portfolio img" src="https://github.com/user-attachments/assets/bc045155-6c4d-4e39-b622-85756559f2ad" />
+
+      
+      <br><br>
       <a href="https://portfolio-website-alpha-five-44.vercel.app/#contact">🔗 Live Demo</a>
     </td>
     <td width="50%" align="center" valign="top">
       <b>Glitch-WebGL-Project</b><br>
       <i>My WebGL interactive showcase</i><br><br>
-      <a href="https://glitch-webgl-showcase.vercel.app/">
-        <!-- Replace the placeholder image below with your HELLO Glitch Image -->
-        <img src="<img width="1912" height="905" alt="Screenshot 2026-06-22 190725" src="https://github.com/user-attachments/assets/ba9f5080-b19b-464a-838e-cd1ce025d6a9" />
-" width="100%" alt="Glitch WebGL Project" />
-      </a><br><br>
+      
+      <img width="1912" height="905" alt="Screenshot 2026-06-22 190725" src="https://github.com/user-attachments/assets/b4eaf37c-2c1f-41af-87b6-a45256714fff" />
+
+      
+      <br><br>
       <a href="https://glitch-webgl-showcase.vercel.app/">🔗 Live Demo</a>
     </td>
   </tr>
@@ -169,7 +172,7 @@
 
 <h3>🌐 Connect with Me</h3>
 <div align="center">
-  <a href="https://muhammadwasif12345.github.io/portfolio-website">
+  <a href="https://portfolio-website-alpha-five-44.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/MuhammadWasif12345">
