@@ -77,39 +77,57 @@
   </tr>
 </table>
 
-<h3>Technologies & Tools</h3>
+<h3>🛠️ Technologies & Tools</h3>
 <table width="100%">
   <tr>
+    <th width="50%" align="center">
+      🌐 Frontend
+      <img width="400" height="0" src="https://github.com/user-attachments/assets/5ea52ac5-8d46-4b2c-8318-78591630f8d6" />
+    </th>
+    <th width="50%" align="center">
+      ⚙️ Backend
+      <img width="400" height="0" src="https://github.com/user-attachments/assets/5ea52ac5-8d46-4b2c-8318-78591630f8d6" />
+    </th>
+  </tr>
+  <tr>
     <td width="50%" align="center" valign="top">
-      <b>Frontend</b><br><br>
+      <br>
       <img src="https://skillicons.dev/icons?i=html,css,js,react" />
     </td>
     <td width="50%" align="center" valign="top">
-      <b>Backend</b><br><br>
+      <br>
       <img src="https://skillicons.dev/icons?i=py,nodejs,cs,cpp" /><br><br>
       <img src="https://skillicons.dev/icons?i=django,flask" />
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top">
-      <b>Data Science</b><br><br>
+    <th width="50%" align="center">📊 Data Science</th>
+    <th width="50%" align="center">🤖 AI</th>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <br>
       <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
       <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
     </td>
-    <td align="center" valign="top">
-      <b>AI</b><br><br>
+    <td width="50%" align="center" valign="top">
+      <br>
       <img src="https://img.shields.io/badge/Claude-1A1A1A?style=for-the-badge&logo=anthropic&logoColor=white" />
       <img src="https://img.shields.io/badge/Perplexity-1E1E1E?style=for-the-badge&logo=perplexity&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top">
-      <b>API</b><br><br>
+    <th width="50%" align="center">🔗 API</th>
+    <th width="50%" align="center">🗄️ Database</th>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <br>
       <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
       <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
     </td>
-    <td align="center" valign="top">
-      <b>Database</b><br><br>
+    <td width="50%" align="center" valign="top">
+      <br>
       <img src="https://img.shields.io/badge/Microsoft%20Access-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white" />
       <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
     </td>
