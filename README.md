@@ -68,13 +68,11 @@
         <li>🔬 Working on data projects, dashboards, and backend architectures</li>
         <li>💬 Ask me about <b>Python, Computer Science, Backend, Full-Stack, and AI</b></li>
         <li>⚡ Fun fact: I enjoy solving complex problems and optimizing systems</li>
-        <li>📫 Reach me: <a href="mailto:wasifalibhatti12517@gmail.com">wasifalibhatti12517@gmail.com</a></li>
+        <li>📫 Reach me: <a href="mailto:wasifghori71@gmail.com">wasifghori71@gmail.com</a></li>
       </ul>
     </td>
     <td width="30%" align="center" valign="middle">
-      
-      DELETE THIS TEXT AND DRAG YOUR UNIVERSITY OF SINDH LOGO HERE
-      
+      <img src="https://github.com/user-attachments/assets/5ea52ac5-8d46-4b2c-8318-78591630f8d6" width="150" alt="University of Sindh" />
     </td>
   </tr>
 </table>
@@ -144,19 +142,17 @@
     <td width="50%" align="center" valign="top">
       <b>Portfolio Website</b><br>
       <i>My 3D Interactive Portfolio</i><br><br>
-      
-      DELETE THIS TEXT AND DRAG YOUR 3D AVATAR IMAGE HERE
-      
-      <br><br>
+      <a href="https://portfolio-website-alpha-five-44.vercel.app/#contact">
+        <img src="https://github.com/user-attachments/assets/bc045155-6c4d-4e39-b622-85756559f2ad" width="100%" alt="Portfolio Website" />
+      </a><br><br>
       <a href="https://portfolio-website-alpha-five-44.vercel.app/#contact">🔗 Live Demo</a>
     </td>
     <td width="50%" align="center" valign="top">
       <b>Glitch-WebGL-Project</b><br>
       <i>My WebGL interactive showcase</i><br><br>
-      
-      DELETE THIS TEXT AND DRAG YOUR GLITCH "HELLO" IMAGE HERE
-      
-      <br><br>
+      <a href="https://glitch-webgl-showcase.vercel.app/">
+        <img src="https://github.com/user-attachments/assets/b4eaf37c-2c1f-41af-87b6-a45256714fff" width="100%" alt="Glitch WebGL Project" />
+      </a><br><br>
       <a href="https://glitch-webgl-showcase.vercel.app/">🔗 Live Demo</a>
     </td>
   </tr>
@@ -199,7 +195,6 @@
       </ul>
     </td>
     <td width="30%" align="center" valign="middle">
-      <!-- You can replace this image src with your actual "Thanks You" Choso image link -->
       <img src="https://placehold.co/200x200/222/FFF?text=Thanks+You" width="150" alt="Thanks You" />
     </td>
   </tr>
