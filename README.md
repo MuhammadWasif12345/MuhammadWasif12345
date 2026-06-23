@@ -68,13 +68,12 @@
         <li>🔬 Working on data projects, dashboards, and backend architectures</li>
         <li>💬 Ask me about <b>Python, Computer Science, Backend, Full-Stack, and AI</b></li>
         <li>⚡ Fun fact: I enjoy solving complex problems and optimizing systems</li>
-        <li>📫 Reach me: <a href="mailto:wasifghori71@gmail.com">wasifghori71@gmail.com</a></li>
+        <li>📫 Reach me: <a href="mailto:wasifalibhatti12517@gmail.com">wasifalibhatti12517@gmail.com</a></li>
       </ul>
     </td>
     <td width="30%" align="center" valign="middle">
       
-      <img width="447" height="447" alt="uni logo" src="https://github.com/user-attachments/assets/5ea52ac5-8d46-4b2c-8318-78591630f8d6" />
-
+      DELETE THIS TEXT AND DRAG YOUR UNIVERSITY OF SINDH LOGO HERE
       
     </td>
   </tr>
@@ -146,8 +145,7 @@
       <b>Portfolio Website</b><br>
       <i>My 3D Interactive Portfolio</i><br><br>
       
-      <img width="1600" height="764" alt="3D portfolio img" src="https://github.com/user-attachments/assets/bc045155-6c4d-4e39-b622-85756559f2ad" />
-
+      DELETE THIS TEXT AND DRAG YOUR 3D AVATAR IMAGE HERE
       
       <br><br>
       <a href="https://portfolio-website-alpha-five-44.vercel.app/#contact">🔗 Live Demo</a>
@@ -156,8 +154,7 @@
       <b>Glitch-WebGL-Project</b><br>
       <i>My WebGL interactive showcase</i><br><br>
       
-      <img width="1912" height="905" alt="Screenshot 2026-06-22 190725" src="https://github.com/user-attachments/assets/b4eaf37c-2c1f-41af-87b6-a45256714fff" />
-
+      DELETE THIS TEXT AND DRAG YOUR GLITCH "HELLO" IMAGE HERE
       
       <br><br>
       <a href="https://glitch-webgl-showcase.vercel.app/">🔗 Live Demo</a>
